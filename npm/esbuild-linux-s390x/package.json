@@ -1,0 +1,16 @@
+{
+  "name": "esbuild-linux-s390x",
+  "version": "0.12.29",
+  "description": "The Linux s390x binary for esbuild, a JavaScript bundler.",
+  "repository": "https://github.com/evanw/esbuild",
+  "license": "MIT",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "s390x"
+  ],
+  "directories": {
+    "bin": "bin"
+  }
+}
